@@ -22,7 +22,7 @@
 
 		<bonecp.version>0.7.1.RELEASE</bonecp.version>
 
-		<spring.version>3.2.8.RELEASE</spring.version>
+		<spring.version>5.2.7.RELEASE</spring.version>
 		
 		<jedis.version>2.4.1</jedis.version>
 
