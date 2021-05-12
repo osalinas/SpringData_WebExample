@@ -18,7 +18,7 @@
 		<jstl.version>1.2</jstl.version>
 
 		<solr.solrj.version>4.7.0</solr.solrj.version>
-		<solr.core.version>4.7.0</solr.core.version>
+		<solr.core.version>8.8.2</solr.core.version>
 
 		<bonecp.version>0.7.1.RELEASE</bonecp.version>
 
